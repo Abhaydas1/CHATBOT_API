@@ -2,7 +2,7 @@ import streamlit as st
 import requests
 
 # --- Configuration ---
-API_KEY = "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"  
+API_KEY = st.secrets["OPENROUTER_API_KEY"]
 MODEL = "google/gemini-2.5-flash-preview-05-20"
 API_URL = "https://openrouter.ai/api/v1/chat/completions"
 
