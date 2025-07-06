@@ -1,0 +1,10 @@
+You have to have two module in your machine:
+
+## streamlit:
+
+Run this (pip install streamlit) in your machine for installing streamlit in your machine
+
+## request:
+
+run this (pip install requests		OR	pip install streamlit requests) in your machine
+
