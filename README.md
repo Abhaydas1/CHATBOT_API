@@ -20,7 +20,7 @@ Runs locally or can be deployed to the web
 bash
 Copy
 Edit
-git clone https://github.com/your-username/streamlit-chatbot.git
+git clone (https://github.com/Abhaydas1/Chat_bot)
 cd streamlit-chatbot
 2. Install Dependencies
 Make sure you have Python 3.8+ and Streamlit installed. You can install required packages with:
