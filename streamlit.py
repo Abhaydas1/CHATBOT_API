@@ -3,7 +3,7 @@ import requests
 
 # --- Configuration ---
 API_KEY = st.secrets["OPENROUTER_API_KEY"]
-MODEL = "google/gemini-2.5-flash-preview-05-20"
+MODEL = "google/gemini-2.5-flash"
 API_URL = "https://openrouter.ai/api/v1/chat/completions"
 
 HEADERS = {
